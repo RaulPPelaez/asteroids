@@ -3,6 +3,7 @@ import argparse
 
 
 def main():
+    print("HELLO")
     parser = argparse.ArgumentParser(
         "Get a list of asteroids that have approached Earth around a given date."
     )
